@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @e18813
 - 👀 I’m interested in ...science & math
 - 🌱 I’m currently learning ... about anything that is interesting!
-- 💞️ I’m looking to collaborate on ...remove
 - 📫 How to reach me ... michael.kellett@burnabyschools.ca
 
 <!---
